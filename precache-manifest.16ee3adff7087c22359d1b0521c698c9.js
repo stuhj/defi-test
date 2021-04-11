@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e0fe98ba0249ec41057075da1f08ffc",
+    "revision": "741e3196908ca980228ae6a01267ef42",
     "url": "/defi-test/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/defi-test/static/js/9.e926b83f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6f0d26e788d091183b27",
-    "url": "/defi-test/static/js/main.3f94ec83.chunk.js"
+    "revision": "eb5ae72e054174400760",
+    "url": "/defi-test/static/js/main.bf13f764.chunk.js"
   },
   {
     "revision": "11f3ed0e0493dfa8c7c4",

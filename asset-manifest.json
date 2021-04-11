@@ -4,8 +4,8 @@
     "static/js/0.a63c49de.chunk.js.map": "/defi-test/static/js/0.a63c49de.chunk.js.map",
     "static/js/1.9a7b634d.chunk.js": "/defi-test/static/js/1.9a7b634d.chunk.js",
     "static/js/1.9a7b634d.chunk.js.map": "/defi-test/static/js/1.9a7b634d.chunk.js.map",
-    "main.js": "/defi-test/static/js/main.3f94ec83.chunk.js",
-    "main.js.map": "/defi-test/static/js/main.3f94ec83.chunk.js.map",
+    "main.js": "/defi-test/static/js/main.bf13f764.chunk.js",
+    "main.js.map": "/defi-test/static/js/main.bf13f764.chunk.js.map",
     "runtime-main.js": "/defi-test/static/js/runtime-main.6c68a64c.js",
     "runtime-main.js.map": "/defi-test/static/js/runtime-main.6c68a64c.js.map",
     "static/css/4.3047e649.chunk.css": "/defi-test/static/css/4.3047e649.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.e926b83f.chunk.js": "/defi-test/static/js/9.e926b83f.chunk.js",
     "static/js/9.e926b83f.chunk.js.map": "/defi-test/static/js/9.e926b83f.chunk.js.map",
     "index.html": "/defi-test/index.html",
-    "precache-manifest.88779bf882458600fe46cb861b688d24.js": "/defi-test/precache-manifest.88779bf882458600fe46cb861b688d24.js",
+    "precache-manifest.16ee3adff7087c22359d1b0521c698c9.js": "/defi-test/precache-manifest.16ee3adff7087c22359d1b0521c698c9.js",
     "service-worker.js": "/defi-test/service-worker.js",
     "static/css/4.3047e649.chunk.css.map": "/defi-test/static/css/4.3047e649.chunk.css.map",
     "static/js/4.3c3b1778.chunk.js.LICENSE.txt": "/defi-test/static/js/4.3c3b1778.chunk.js.LICENSE.txt",
@@ -64,6 +64,6 @@
     "static/js/runtime-main.6c68a64c.js",
     "static/css/4.3047e649.chunk.css",
     "static/js/4.3c3b1778.chunk.js",
-    "static/js/main.3f94ec83.chunk.js"
+    "static/js/main.bf13f764.chunk.js"
   ]
 }
